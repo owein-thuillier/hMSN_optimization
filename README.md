@@ -12,12 +12,13 @@ For Part I, there is only the following PDF file:
 
 For Part II, there are the following three PDF files: 
 
-* [results_part_II_A.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_A.pdf): pré-traitements méthode QADP;
+* [results_part_II_A.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_A.pdf):  pre-processing for the QADP method;
 * [results_part_II_B.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_B.pdf): "naïve" from-scratch evaluation vs. enhanced from-scratch evaluation;
 * [results_part_II_C.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_C.pdf): "naïve" update procedure (V3) vs. enhanced update procedure (V3).
 
 
 Some additional information: 
 
-* "naive" refers to reference algorithms that have already been improved compared to the existing state-of-the-art, but serve here as a reference point;
+* "naive" refers to reference algorithms that have already been improved compared to the existing state-of-the-art, but serve here as a reference point (i.e. without QADP);
+* "enhanced" refers to the same algorithms enhanced with the QADP method;
 * the V3 update procedure is the best of the three versions (i.e. V1, V2 & V3).
