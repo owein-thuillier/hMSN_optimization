@@ -6,15 +6,15 @@ In this GitHub repository, we provide free access to experimental results from t
 
 For Part I, there is only the following PDF file: 
 
-* [results_part_I.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_I.pdf): "naïve" from-scratch evaluation vs. "naïve" update procedures (V1, V2 & V3)
+* [results_part_I.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_I.pdf): "naïve" from-scratch evaluation vs. "naïve" update procedures (V1, V2 & V3).
 
 ## Part II: Quick Approximation of Detection Probabilities (QADP)
 
 For Part II, there are the following three PDF files: 
 
-* [results_part_II_A.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_A.pdf): pré-traitements méthode QADP
-* [results_part_II_B.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_B.pdf): "naïve" from-scratch evaluation vs. enhanced from-scratch evaluation
-* [results_part_II_C.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_C.pdf): "naïve" update procedure (V3) vs. enhanced update procedure (V3)
+* [results_part_II_A.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_A.pdf): pré-traitements méthode QADP;
+* [results_part_II_B.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_B.pdf): "naïve" from-scratch evaluation vs. enhanced from-scratch evaluation;
+* [results_part_II_C.pdf](https://github.com/owein-thuillier/MSN_optimization/blob/main/results/results_part_II_C.pdf): "naïve" update procedure (V3) vs. enhanced update procedure (V3).
 
 
 Some additional information: 
